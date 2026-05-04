@@ -70,10 +70,10 @@
 
     // ========== TYPED ROLE ==========
     const roles = [
-        'Team Lead - Talent Acquisition',
-        'Assistant Manager - TA',
+        'Assistant Manager - Talent Acquisition',
         'IT & Non-IT Recruitment Specialist',
-        'Stakeholder Management Expert'
+        'Stakeholder Management Expert',
+        'Training & Development Professional'
     ];
     let roleIndex = 0;
     const typedEl = document.getElementById('typed-role');
